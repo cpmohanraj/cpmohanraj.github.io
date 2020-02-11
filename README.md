@@ -1,2 +1,3 @@
 # cpmohanraj.github.io
-just a log of random things...
+
+[Mohan's blog](https://cpmohanraj.github.io)
